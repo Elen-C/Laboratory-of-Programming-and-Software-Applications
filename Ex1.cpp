@@ -12,5 +12,7 @@ int main()
 	dig3 = (num%100)%10;
 	
 	cout << "The number is " << dig3 << dig2 << dig1;
+	return 0;
 	
+
 }
