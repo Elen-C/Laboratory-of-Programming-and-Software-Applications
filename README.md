@@ -21,3 +21,10 @@ __Hint__: Assume that the total monthly consumption cannot exceed 4000kWh. In ca
 ---
 ### Exercise 2.2:
 Write a program in which the user enters real values ​​corresponding to the coefficients α, b, c of the quadratic equation y = ax^2 + bx + c through the keyboard. Then, after checking that the value of α is different from 0, the program calculates the vertex and the axis of symmetry of the parabola described by the previous equation. 
+---
+### Exercise 3:
+For loops. 
+
+---
+### Exercise 4: 
+Write a program that sorts the elements of an array in ascending order (bubble algorithm). 
